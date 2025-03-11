@@ -1,5 +1,3 @@
-## Hi there 👋
-
 ![Lcvapreview2-low](https://github.com/user-attachments/assets/96861c07-ed46-4997-bc77-fe995b0b1707) ![Lcvapreview2-low-5](https://github.com/user-attachments/assets/b2d045b0-e3ca-41b1-a662-7c0cff78331c)
 
 
