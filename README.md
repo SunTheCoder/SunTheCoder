@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+![alt text](<ScreenRecording_03-11-2025 13-low.gif>) ![alt text](Lcvapreview2-low-5.gif) ![ ](Lcvapreview2-low-3.gif) ![alt text](<ScreenRecording_03-11-2025 12-10-14_1-low.gif>) ![alt text](Lcvapreview2-low.gif)
+
+
 <!--
 **SunTheCoder/SunTheCoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
