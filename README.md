@@ -9,7 +9,7 @@ I believe technology should **serve people first**, creating solutions that are 
 I approach every challenge with a blend of **engineering precision and creative problem-solving**:  
 - **Strong technical foundations** in **cloud architecture, database optimization, and AI-driven recommendations**.  
 - **Deep problem-solver**—whether it’s optimizing **geospatial data for grant discovery** or designing **interactive museum experiences**.  
-- **Creative meets technical**—a background in **woodworking and fabrication** sharpened my **spatial reasoning and engineering mindset**.  
+- **Creative meets technical**—a background in **woodworking and fabrication** sharpened my **spatial reasoning and engineering mindset; giving me en edge with abstract thinking and problem solving**.  
 - **Always learning**—exploring **Go/Golang, DevOps, Docker, Next.js, and AI tools** to **push my skill set further**.  
 
 ## **What I Build**  
