@@ -3,7 +3,7 @@
 # I’m Sun – Building Optimized, Engaging, Scalable Tech That Empowers Communities  
 
 ## **Why I Build**  
-I believe technology should **serve people first**, creating solutions that are **intuitive, accessible, and impactful**. Whether it’s **helping museums engage audiences**, **empowering civic tech initiatives**, or **leveraging Web3 for community-driven tools**, I build with purpose—**technology that connects, informs, and enhances real-world experiences**.  
+I believe technology should **serve people first**, creating solutions that are **intuitive, accessible, and impactful**. Whether it’s helping museums engage audiences, empowering civic tech initiatives, or leveraging Web3 for community-driven tools*, I build with purpose—**technology that connects, informs, and enhances real-world experiences**.  
 
 ## **How I Work**  
 I approach every challenge with a blend of **engineering precision and creative problem-solving**:  
