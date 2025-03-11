@@ -29,14 +29,6 @@ Whether it’s **an engaging museum app** or **a civic tool that strengthens com
 
 ![MapRecording-low](https://github.com/user-attachments/assets/6fbeaa82-042d-48e3-9a87-44306dd2e8b4) ![MapRecording-low-2](https://github.com/user-attachments/assets/746bdd45-8841-4c2b-998c-7d6f8e1cfe8d)
 
-
-
-
-
-
-
-
-
 <!--
 **SunTheCoder/SunTheCoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
