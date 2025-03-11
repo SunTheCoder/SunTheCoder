@@ -1,7 +1,6 @@
 ## Hi there 👋
 
 
-![ScreenRecording_03-11-2025 13-low](https://github.com/user-attachments/assets/2cca12ea-4185-4e2c-9a04-721ec15ec1f1) ![Lcvapreview2-low](https://github.com/user-attachments/assets/00238d69-683e-44ee-9e0b-a1fcf658fa03) ![Lcvapreview2-low-3](https://github.com/user-attachments/assets/c1b27e11-d657-449a-8166-f37df09f0e96) ![Lcvapreview2-low-4](https://github.com/user-attachments/assets/9be9b618-83d9-40d0-8961-ee116786c7ab) ![Lcvapreview2-low-5](https://github.com/user-attachments/assets/86302c88-661f-40ef-a16a-924832252a76)
 
 
 
