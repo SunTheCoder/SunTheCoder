@@ -15,7 +15,7 @@ I approach every challenge with a blend of **engineering precision and creative 
 ## **What I Build**  
 I specialize in **JavaScript/TypeScript, Express, Python/Flask, iOS/Swift, React, Redux, and UI frameworks like Chakra & Tailwind**, creating **scalable, intuitive applications** that drive **efficiency, accessibility, and impact**.  
 
-💡 Whether it’s **an engaging museum app** or **a civic tool that strengthens communities**, I focus on solutions that make a difference.  
+Whether it’s **an engaging museum app** or **a civic tool that strengthens communities**, I focus on solutions that make a difference.  
 
 **More:** [sunthecoder.com](https://sunthecoder.com) | **GitHub:** [github.com/SunTheCoder](https://github.com/SunTheCoder)  
 **Follow my work:** `#sunthecoder`  
